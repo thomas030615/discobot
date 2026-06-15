@@ -6,8 +6,8 @@
 	"activity":"ONLINE",
 	"list":[
 	{
-		"name":"{RADIO NAME}",
-		"url":"{RADIO URL}"
+		"name":"97.5 KRock",
+		"url":"https://tunein.com/radio/K-Rock-975-s16505/"
 	}
 	]
 }
