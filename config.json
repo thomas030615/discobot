@@ -1,9 +1,9 @@
 {
-	"prefix":"{COMMAND PREFIX}",
-	"token":"{BOT TOKEN}",
-	"voicechannel":"{VOICE CHANNEL ID}",
-	"logchannel":"{TEXT CHANNEL ID}",
-	"activity":"{DEFAULT BOT ACTIVITY}",
+	"prefix":"m!",
+	"token":"MTQ5ODcwMzczMjYzNTA3ODcwNg.GTJ7HI.q4B8uALRxi6ec2oNRgTpfq9lcTZKnPfRwkGC70",
+	"voicechannel":"1515892909663191241",
+	"logchannel":"1516056917204664421",
+	"activity":"ONLINE",
 	"list":[
 	{
 		"name":"{RADIO NAME}",
